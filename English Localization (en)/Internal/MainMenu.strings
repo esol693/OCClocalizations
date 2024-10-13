@@ -2,23 +2,23 @@
 /* Class = "NSMenuItem"; title = "Advanced OpenCore Validator"; ObjectID = "05d-N1-WMO"; */
 "05d-N1-WMO.title" = "Advanced OpenCore Validator";
 
-/* Class = "NSToolbarItem"; label = "Bootloader Settings"; ObjectID = "11s-5L-eLA"; */
-"11s-5L-eLA.label" = "Bootloader Settings";
+/* Class = "NSToolbarItem"; label = "Mga Settings ng Bootloader"; ObjectID = "11s-5L-eLA"; */
+"11s-5L-eLA.label" = "Mga Settings ng Bootloader";
 
-/* Class = "NSToolbarItem"; paletteLabel = "Bootloader Settings"; ObjectID = "11s-5L-eLA"; */
-"11s-5L-eLA.paletteLabel" = "Bootloader Settings";
+/* Class = "NSToolbarItem"; paletteLabel = "Mga Settings ng Bootloader"; ObjectID = "11s-5L-eLA"; */
+"11s-5L-eLA.paletteLabel" = "Mga Settings ng Bootloader";
 
 /* Class = "NSMenuItem"; title = "Boot.log"; ObjectID = "1OT-QB-Wyo"; */
 "1OT-QB-Wyo.title" = "Boot.log";
 
-/* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "1UK-8n-QPP"; */
-"1UK-8n-QPP.title" = "Customize Toolbar…";
+/* Class = "NSMenuItem"; title = "i-Customize ang Toolbar…"; ObjectID = "1UK-8n-QPP"; */
+"1UK-8n-QPP.title" = "i-Customize ang Toolbar…";
 
 /* Class = "NSMenuItem"; title = "OpenCore Configurator"; ObjectID = "1Xt-HY-uBw"; */
 "1Xt-HY-uBw.title" = "OpenCore Configurator";
 
-/* Class = "NSMenu"; title = "Find"; ObjectID = "1b7-l0-nxx"; */
-"1b7-l0-nxx.title" = "Find";
+/* Class = "NSMenu"; title = "Hanapin"; ObjectID = "1b7-l0-nxx"; */
+"1b7-l0-nxx.title" = "Hanapin";
 
 /* Class = "NSMenuItem"; title = "Text Mode"; ObjectID = "1mO-LS-7hU"; */
 "1mO-LS-7hU.title" = "Text Mode";
@@ -26,59 +26,59 @@
 /* Class = "NSMenuItem"; title = "Lower"; ObjectID = "1tx-W0-xDw"; */
 "1tx-W0-xDw.title" = "Lower";
 
-/* Class = "NSMenuItem"; title = "Leave A Message"; ObjectID = "1uS-ai-nwN"; */
-"1uS-ai-nwN.title" = "Leave A Message";
+/* Class = "NSMenuItem"; title = "Mag-iwan ng Mensahe"; ObjectID = "1uS-ai-nwN"; */
+"1uS-ai-nwN.title" = "Mag-iwan ng Mensahe";
 
 /* Class = "NSMenuItem"; title = "Raise"; ObjectID = "2h7-ER-AoG"; */
 "2h7-ER-AoG.title" = "Raise";
 
-/* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "2oI-Rn-ZJC"; */
-"2oI-Rn-ZJC.title" = "Transformations";
+/* Class = "NSMenuItem"; title = "Mga Transpormasyon"; ObjectID = "2oI-Rn-ZJC"; */
+"2oI-Rn-ZJC.title" = "Mga Transpormasyon";
 
 /* Class = "NSMenu"; title = "Spelling"; ObjectID = "3IN-sU-3Bg"; */
 "3IN-sU-3Bg.title" = "Spelling";
 
-/* Class = "NSMenuItem"; title = "OpenCore Documentation"; ObjectID = "3Ie-4w-VRA"; */
-"3Ie-4w-VRA.title" = "OpenCore Documentation";
+/* Class = "NSMenuItem"; title = "Mga Dokumentasyon ng OpenCore"; ObjectID = "3Ie-4w-VRA"; */
+"3Ie-4w-VRA.title" = "Mga Dokumentasyon ng OpenCore";
 
-/* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "3Om-Ey-2VK"; */
-"3Om-Ey-2VK.title" = "Use Default";
+/* Class = "NSMenuItem"; title = "Gamitin ang Default"; ObjectID = "3Om-Ey-2VK"; */
+"3Om-Ey-2VK.title" = "Gamitin ang Default";
 
-/* Class = "NSMenu"; title = "Speech"; ObjectID = "3rS-ZA-NoH"; */
-"3rS-ZA-NoH.title" = "Speech";
+/* Class = "NSMenu"; title = "Salita"; ObjectID = "3rS-ZA-NoH"; */
+"3rS-ZA-NoH.title" = "Salita";
 
 /* Class = "NSMenuItem"; title = "Tighten"; ObjectID = "46P-cB-AYj"; */
 "46P-cB-AYj.title" = "Tighten";
 
-/* Class = "NSMenuItem"; title = "Find"; ObjectID = "4EN-yA-p0u"; */
-"4EN-yA-p0u.title" = "Find";
+/* Class = "NSMenuItem"; title = "Hanapin"; ObjectID = "4EN-yA-p0u"; */
+"4EN-yA-p0u.title" = "Hanapin";
 
-/* Class = "NSMenuItem"; title = "Tools"; ObjectID = "4Eq-aR-Tzb"; */
-"4Eq-aR-Tzb.title" = "Tools";
+/* Class = "NSMenuItem"; title = "Mga Tools"; ObjectID = "4Eq-aR-Tzb"; */
+"4Eq-aR-Tzb.title" = "Mga Tools";
 
-/* Class = "NSButtonCell"; title = "Make transparent"; ObjectID = "4hf-lk-adQ"; */
-"4hf-lk-adQ.title" = "Make transparent";
+/* Class = "NSButtonCell"; title = "Gawing Aninag"; ObjectID = "4hf-lk-adQ"; */
+"4hf-lk-adQ.title" = "Gawing Aninag";
 
-/* Class = "NSMenuItem"; title = "Quit OpenCore Configurator"; ObjectID = "4sb-4s-VLi"; */
-"4sb-4s-VLi.title" = "Quit OpenCore Configurator";
+/* Class = "NSMenuItem"; title = "Isara ang OpenCore Configurator"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Isara ang OpenCore Configurator";
 
-/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T"; */
-"5QF-Oa-p0T.title" = "Edit";
+/* Class = "NSMenuItem"; title = "i-Edit"; ObjectID = "5QF-Oa-p0T"; */
+"5QF-Oa-p0T.title" = "i-Edit";
 
-/* Class = "NSMenuItem"; title = "Copy Style"; ObjectID = "5Vv-lz-BsD"; */
-"5Vv-lz-BsD.title" = "Copy Style";
+/* Class = "NSMenuItem"; title = "Kopyahin"; ObjectID = "5Vv-lz-BsD"; */
+"5Vv-lz-BsD.title" = "Kopyahin";
 
-/* Class = "NSMenuItem"; title = "About OpenCore Configurator"; ObjectID = "5kV-Vb-QxS"; */
-"5kV-Vb-QxS.title" = "About OpenCore Configurator";
+/* Class = "NSMenuItem"; title = "Tungkol sa OpenCore Configurator"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "Tungkol sa OpenCore Configurator";
 
-/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "6dh-zS-Vam"; */
-"6dh-zS-Vam.title" = "Redo";
+/* Class = "NSMenuItem"; title = "Gawin ulit"; ObjectID = "6dh-zS-Vam"; */
+"6dh-zS-Vam.title" = "Gawin ulit";
 
 /* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "78Y-hA-62v"; */
 "78Y-hA-62v.title" = "Correct Spelling Automatically";
 
-/* Class = "NSTextFieldCell"; title = "Network Resources"; ObjectID = "7jI-RZ-eJQ"; */
-"7jI-RZ-eJQ.title" = "Network Resources";
+/* Class = "NSTextFieldCell"; title = "Mga Resources ng Network"; ObjectID = "7jI-RZ-eJQ"; */
+"7jI-RZ-eJQ.title" = "Mga Resources ng Network";
 
 /* Class = "NSMenu"; title = "Advanced User"; ObjectID = "8k6-J4-O8u"; */
 "8k6-J4-O8u.title" = "Advanced User";
@@ -92,17 +92,17 @@
 /* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "9fr-XT-GHp"; */
 "9fr-XT-GHp.title" = "Clear Menu";
 
-/* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "9ic-FL-obx"; */
-"9ic-FL-obx.title" = "Substitutions";
+/* Class = "NSMenuItem"; title = "Sabstitusyon"; ObjectID = "9ic-FL-obx"; */
+"9ic-FL-obx.title" = "Sabstitusyon";
 
-/* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "9yt-4B-nSM"; */
-"9yt-4B-nSM.title" = "Smart Copy/Paste";
+/* Class = "NSMenuItem"; title = "Matalinong Pagkopya at Pagsalin"; ObjectID = "9yt-4B-nSM"; */
+"9yt-4B-nSM.title" = "Matalinong Pagkopya at Pagsalin";
 
 /* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
 "AYu-sK-qS6.title" = "Main Menu";
 
-/* Class = "NSTextFieldCell"; title = "*To apply this change, you must restart the app"; ObjectID = "B6M-Or-Bxn"; */
-"B6M-Or-Bxn.title" = "*To apply this change, you must restart the app";
+/* Class = "NSTextFieldCell"; title = "*Para i-apply ang pagbabago, kailangan mong i-restart ang aplikasyon."; ObjectID = "B6M-Or-Bxn"; */
+"B6M-Or-Bxn.title" = "*Para i-apply ang pagbabago, kailangan mong i-restart ang aplikasyon.";
 
 /* Class = "NSMenuItem"; title = "\tLeft to Right"; ObjectID = "BgM-ve-c93"; */
 "BgM-ve-c93.title" = "\tLeft to Right";
@@ -113,8 +113,8 @@
 /* Class = "NSMenuItem"; title = "Config Checker"; ObjectID = "C9y-Q3-nK5"; */
 "C9y-Q3-nK5.title" = "Config Checker";
 
-/* Class = "NSMenuItem"; title = "Differences"; ObjectID = "D1d-8G-YO3"; */
-"D1d-8G-YO3.title" = "Differences";
+/* Class = "NSMenuItem"; title = "Mga kaibahan"; ObjectID = "D1d-8G-YO3"; */
+"D1d-8G-YO3.title" = "Mga kaibahan";
 
 /* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "Dv1-io-Yv7"; */
 "Dv1-io-Yv7.title" = "Spelling and Grammar";
@@ -122,20 +122,20 @@
 /* Class = "NSMenuItem"; title = "File"; ObjectID = "Ebn-j6-R4c"; */
 "Ebn-j6-R4c.title" = "File";
 
-/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
-"F2S-fz-NVQ.title" = "Help";
+/* Class = "NSMenu"; title = "Tulong"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "Tulong";
 
-/* Class = "NSWindow"; title = "Preferences"; ObjectID = "F4O-Rd-GWc"; */
-"F4O-Rd-GWc.title" = "Preferences";
+/* Class = "NSWindow"; title = "Mga Preperehiya; ObjectID = "F4O-Rd-GWc"; */
+"F4O-Rd-GWc.title" = "Mga Preperehiya";
 
-/* Class = "NSMenuItem"; title = "OpenCore Configurator Help"; ObjectID = "FKE-Sm-Kum"; */
-"FKE-Sm-Kum.title" = "OpenCore Configurator Help";
+/* Class = "NSMenuItem"; title = "Tulong para sa OpenCore Configurator"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "Tulong para sa OpenCore Configurator";
 
 /* Class = "NSMenuItem"; title = "Text"; ObjectID = "Fal-I4-PZk"; */
 "Fal-I4-PZk.title" = "Text";
 
-/* Class = "NSMenu"; title = "Substitutions"; ObjectID = "FeM-D8-WVr"; */
-"FeM-D8-WVr.title" = "Substitutions";
+/* Class = "NSMenu"; title = "Sabstitusyon"; ObjectID = "FeM-D8-WVr"; */
+"FeM-D8-WVr.title" = "Sabstitusyon";
 
 /* Class = "NSMenuItem"; title = "OpenCore Bootloader"; ObjectID = "FpP-Sa-O4X"; */
 "FpP-Sa-O4X.title" = "OpenCore Bootloader";
@@ -152,8 +152,8 @@
 /* Class = "NSMenu"; title = "File"; ObjectID = "Gew-q2-lDB"; */
 "Gew-q2-lDB.title" = "File";
 
-/* Class = "NSMenuItem"; title = "Font"; ObjectID = "Gi5-1S-RQB"; */
-"Gi5-1S-RQB.title" = "Font";
+/* Class = "NSMenuItem"; title = "Teksto"; ObjectID = "Gi5-1S-RQB"; */
+"Gi5-1S-RQB.title" = "Teksto";
 
 /* Class = "NSMenuItem"; title = "Sample.plist"; ObjectID = "Gli-qs-3eC"; */
 "Gli-qs-3eC.title" = "Sample.plist";
@@ -164,8 +164,8 @@
 /* Class = "NSMenuItem"; title = "Writing Direction"; ObjectID = "H1b-Si-o9J"; */
 "H1b-Si-o9J.title" = "Writing Direction";
 
-/* Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v"; */
-"H8h-7b-M4v.title" = "View";
+/* Class = "NSMenuItem"; title = "Tignan"; ObjectID = "H8h-7b-M4v"; */
+"H8h-7b-M4v.title" = "Tignan";
 
 /* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "HFQ-gK-NFA"; */
 "HFQ-gK-NFA.title" = "Text Replacement";
@@ -173,11 +173,11 @@
 /* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "HFo-cy-zxI"; */
 "HFo-cy-zxI.title" = "Show Spelling and Grammar";
 
-/* Class = "NSMenuItem"; title = "Preferences..."; ObjectID = "HkR-hj-D4X"; */
-"HkR-hj-D4X.title" = "Preferences...";
+/* Class = "NSMenuItem"; title = "Mga preperehiya..."; ObjectID = "HkR-hj-D4X"; */
+"HkR-hj-D4X.title" = "Mga preperehiya...";
 
-/* Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
-"HyV-fh-RgO.title" = "View";
+/* Class = "NSMenu"; title = "Tignan"; ObjectID = "HyV-fh-RgO"; */
+"HyV-fh-RgO.title" = "Tignan";
 
 /* Class = "NSMenuItem"; title = "Subscript"; ObjectID = "I0S-gh-46l"; */
 "I0S-gh-46l.title" = "Subscript";
@@ -191,8 +191,8 @@
 /* Class = "NSMenuItem"; title = "Use None"; ObjectID = "J7y-lM-qPV"; */
 "J7y-lM-qPV.title" = "Use None";
 
-/* Class = "NSMenuItem"; title = "Close"; ObjectID = "JPS-kd-8vb"; */
-"JPS-kd-8vb.title" = "Close";
+/* Class = "NSMenuItem"; title = "Isara"; ObjectID = "JPS-kd-8vb"; */
+"JPS-kd-8vb.title" = "Isara";
 
 /* Class = "NSTextFieldCell"; title = "Languages"; ObjectID = "K7T-KM-ZRz"; */
 "K7T-KM-ZRz.title" = "Languages";
@@ -200,11 +200,11 @@
 /* Class = "NSMenu"; title = "Templates"; ObjectID = "KGo-Ce-Wkm"; */
 "KGo-Ce-Wkm.title" = "Templates";
 
-/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
-"Kd2-mp-pUS.title" = "Show All";
+/* Class = "NSMenuItem"; title = "Ipakita Lahat"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Ipakita Lahat";
 
-/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
-"LE2-aR-0XJ.title" = "Bring All to Front";
+/* Class = "NSMenuItem"; title = "Dalhin Lahat sa Harap"; ObjectID = "LE2-aR-0XJ"; */
+"LE2-aR-0XJ.title" = "Dalhin Lahat sa Harap";
 
 /* Class = "NSMenuItem"; title = "Paste Ruler"; ObjectID = "LVM-kO-fVI"; */
 "LVM-kO-fVI.title" = "Paste Ruler";
@@ -212,8 +212,8 @@
 /* Class = "NSMenuItem"; title = "\tLeft to Right"; ObjectID = "Lbh-J2-qVU"; */
 "Lbh-J2-qVU.title" = "\tLeft to Right";
 
-/* Class = "NSMenuItem"; title = "OpenCore Forum"; ObjectID = "LnW-Pe-lWu"; */
-"LnW-Pe-lWu.title" = "OpenCore Forum";
+/* Class = "NSMenuItem"; title = "Tabloid ngh OpenCore"; ObjectID = "LnW-Pe-lWu"; */
+"LnW-Pe-lWu.title" = "Tabloid ng OpenCore";
 
 /* Class = "NSMenuItem"; title = "Copy Ruler"; ObjectID = "MkV-Pr-PK5"; */
 "MkV-Pr-PK5.title" = "Copy Ruler";
@@ -224,26 +224,26 @@
 /* Class = "NSMenuItem"; title = "Advanced User"; ObjectID = "NGL-Uc-o6p"; */
 "NGL-Uc-o6p.title" = "Advanced User";
 
-/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
-"NMo-om-nkz.title" = "Services";
+/* Class = "NSMenuItem"; title = "Mga Serbisyo"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "Mga Serbisyo";
 
-/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "NZD-7J-lLZ"; */
-"NZD-7J-lLZ.title" = "Save As…";
+/* Class = "NSMenuItem"; title = "Itabi Bilang…"; ObjectID = "NZD-7J-lLZ"; */
+"NZD-7J-lLZ.title" = "Itabi Bilang…";
 
 /* Class = "NSMenuItem"; title = "\tDefault"; ObjectID = "Nop-cj-93Q"; */
 "Nop-cj-93Q.title" = "\tDefault";
 
-/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
-"OY7-WF-poV.title" = "Minimize";
+/* Class = "NSMenuItem"; title = "Paliitin"; ObjectID = "OY7-WF-poV"; */
+"OY7-WF-poV.title" = "Paliitin";
 
 /* Class = "NSMenuItem"; title = "Baseline"; ObjectID = "OaQ-X3-Vso"; */
 "OaQ-X3-Vso.title" = "Baseline";
 
-/* Class = "NSMenuItem"; title = "Hide OpenCore Configurator"; ObjectID = "Olw-nP-bQN"; */
-"Olw-nP-bQN.title" = "Hide OpenCore Configurator";
+/* Class = "NSMenuItem"; title = "Itago ang OpenCore Configurator"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Itago ang OpenCore Configurator";
 
-/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "OwM-mh-QMV"; */
-"OwM-mh-QMV.title" = "Find Previous";
+/* Class = "NSMenuItem"; title = "Bumalik at Hanapin ulit"; ObjectID = "OwM-mh-QMV"; */
+"OwM-mh-QMV.title" = "Bumalik at Hanapin ulit";
 
 /* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "Oyz-dy-DGm"; */
 "Oyz-dy-DGm.title" = "Stop Speaking";
